@@ -1,24 +1,9 @@
-# README
+# Aula Tutorial Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Travis: [![Build Status](https://travis-ci.com/vascmig/aula-tutorial-rails.svg?branch=master)](https://travis-ci.com/vascmig/aula-tutorial-rails)
 
-Things you may want to cover:
+Codeclimate: [![Maintainability](https://api.codeclimate.com/v1/badges/be3b42b15772e7f98e72/maintainability)](https://codeclimate.com/github/vascmig/aula-tutorial-rails/maintainability)
 
-* Ruby version
+Coveralls: [![Coverage Status](https://coveralls.io/repos/github/vascmig/aula-tutorial-rails/badge.svg?branch=master)](https://coveralls.io/github/vascmig/aula-tutorial-rails?branch=master)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Link da aplicação no Heroku](https://aula-tutorial-rails.herokuapp.com/)
